@@ -1,0 +1,1 @@
+https://medium.com/@devsumitg/revolutionize-your-user-experience-creating-real-time-notifications-with-django-channels-18053b958fb6
